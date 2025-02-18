@@ -59,7 +59,7 @@ function Body() {
         </div>
 
         <div className='mt-5 flex w-[70%] gap-4 items-center' >
-        <button className=' bg-blue-500 w-35 flex items-center font-semibold text-white p-3 rounded-full gap-0.5'>
+        <button className=' bg-blue-500 w-35 flex items-center font-semibold text-white p-3 rounded-full gap-0.5 cursor-pointer'>
             <MdVideoCall size={25}/> 
             <p className='text-sm'>New meeting</p>
         </button>
