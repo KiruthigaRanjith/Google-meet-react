@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* @layer utilities {
+  .hover-shadow-amber:hover {
+    shape-outside: 0 4px 25px rgba(255, 193, 7, 0.6), 0 0 50px rgba(255, 193, 7, 0.3);
+  }
+} */
